@@ -9,7 +9,7 @@
 #include "../../Util/bit_manipulation.h"
 
 /************************************************************************/
-/*						TIMER0 Function Definitions                     */
+/*			TIMER0 Function Definitions                     */
 /************************************************************************/
 
 /* Description	: TIMER 0 Initialization 
