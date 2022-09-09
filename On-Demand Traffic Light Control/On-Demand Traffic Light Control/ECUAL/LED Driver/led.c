@@ -8,7 +8,7 @@
 #include "led.h"
 
 /************************************************************************/
-/*						Function Definitions                            */
+/*			Function Definitions                            */
 /************************************************************************/
 
 /* Description	: LED PIN Initialization 
