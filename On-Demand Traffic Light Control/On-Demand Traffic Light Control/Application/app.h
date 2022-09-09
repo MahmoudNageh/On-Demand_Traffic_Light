@@ -15,13 +15,13 @@
 #define BUTTON_PORT				PORT_D
 
 // PIN Macros
-#define CAR_GREEN_PIN     PIN_0
+#define CAR_GREEN_PIN       PIN_0
 #define CAR_YELLOW_PIN      PIN_1
-#define CAR_RED_PIN     PIN_2
+#define CAR_RED_PIN         PIN_2
 
-#define PED_GREEN_PIN     PIN_0
+#define PED_GREEN_PIN       PIN_0
 #define PED_YELLOW_PIN      PIN_1
-#define PED_RED_PIN     PIN_2
+#define PED_RED_PIN         PIN_2
 
 #define BUTTON_PIN      PIN_2
 
