@@ -8,7 +8,7 @@
 #include "button.h"
 
 /************************************************************************/
-/*						Function Definitions                            */
+/*			Function Definitions                            */
 /************************************************************************/
 
 /* Description	: Button PIN Direction Initialization 
