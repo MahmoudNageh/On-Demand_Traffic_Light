@@ -23,12 +23,12 @@
 #define PED_YELLOW_PIN      PIN_1
 #define PED_RED_PIN         PIN_2
 
-#define BUTTON_PIN      PIN_2
+#define BUTTON_PIN          PIN_2
 
 // Car Signal State Macros
-#define CAR_GREEN				0
+#define CAR_GREEN				  0
 #define CAR_YELLOW_1			1
-#define CAR_RED					2
+#define CAR_RED					  2
 #define CAR_YELLOW_2			3
 
 // Timer Macros
