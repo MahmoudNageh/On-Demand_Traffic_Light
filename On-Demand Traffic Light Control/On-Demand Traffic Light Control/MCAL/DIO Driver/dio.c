@@ -9,7 +9,7 @@
 #include "../../Util/bit_manipulation.h"
 
 /************************************************************************/
-/*						Function Definitions                            */
+/*			Function Definitions                            */
 /************************************************************************/
 
 /* Description	: DIO PIN Direction Initialization 
