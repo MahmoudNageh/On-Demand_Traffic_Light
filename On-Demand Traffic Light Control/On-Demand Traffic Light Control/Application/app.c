@@ -21,13 +21,13 @@ uint32_t overflow_Counter	= 0;
 uint32_t overflow_Counter2	= 0;
 
 //Flags
-uint8_t CAR_STATE			= 0;
-uint8_t YELLOW_FLAG			= 0;
+uint8_t CAR_STATE		= 0;
+uint8_t YELLOW_FLAG		= 0;
 uint8_t PRESSED_BUTTON_FLAG	= 0;
 
 
 /************************************************************************/
-/*							INITIALIZATION								*/
+/*				INITIALIZATION				*/
 /************************************************************************/
 void app_init()
 {
@@ -74,7 +74,7 @@ void app_init()
 }
 
 /************************************************************************/
-/*							 APPLICATION								*/
+/*				 APPLICATION				*/
 /************************************************************************/
 
 void app_start()
