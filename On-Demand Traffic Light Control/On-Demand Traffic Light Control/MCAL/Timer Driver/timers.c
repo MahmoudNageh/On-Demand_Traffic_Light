@@ -147,7 +147,7 @@ void TIMER0_delay(uint8_t timerPrescaler, uint8_t initialValue, uint32_t numberO
 }
 
 /************************************************************************/
-/*						TIMER0 Function Definitions                     */
+/*			TIMER2 Function Definitions                     */
 /************************************************************************/
 
 
